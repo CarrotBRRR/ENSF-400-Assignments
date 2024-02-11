@@ -1,1 +1,2 @@
-# ENSF-400-Assignments
+# ENSF 400 Assignments
+Assignments for ENSF 400
